@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Adeel Ch/StudioProjects/TabLayout/app/src/main/res/drawable/tab_indicator.xml" value="0.2" />
+        <entry key="..\:/Users/Adeel Ch/StudioProjects/TabLayout/app/src/main/res/layout/activity_main.xml" value="0.9" />
+        <entry key="..\:/Users/Adeel Ch/StudioProjects/TabLayout/app/src/main/res/layout/document_view_list.xml" value="0.18" />
+        <entry key="..\:/Users/Adeel Ch/StudioProjects/TabLayout/app/src/main/res/layout/fragment_documents.xml" value="0.1921875" />
+        <entry key="..\:/Users/Adeel Ch/StudioProjects/TabLayout/app/src/main/res/layout/fragment_files.xml" value="0.1921875" />
+        <entry key="..\:/Users/Adeel Ch/StudioProjects/TabLayout/app/src/main/res/layout/fragment_home.xml" value="0.1921875" />
+        <entry key="..\:/Users/Adeel Ch/StudioProjects/TabLayout/app/src/main/res/layout/fragment_jobs.xml" value="0.1921875" />
+        <entry key="..\:/Users/Adeel Ch/StudioProjects/TabLayout/app/src/main/res/layout/fragment_music.xml" value="0.1921875" />
+        <entry key="..\:/Users/Adeel Ch/StudioProjects/TabLayout/app/src/main/res/layout/fragment_my_network.xml" value="0.178125" />
+        <entry key="..\:/Users/Adeel Ch/StudioProjects/TabLayout/app/src/main/res/layout/fragment_notification_r.xml" value="0.1921875" />
+        <entry key="..\:/Users/Adeel Ch/StudioProjects/TabLayout/app/src/main/res/layout/fragment_pictures.xml" value="0.33" />
+        <entry key="..\:/Users/Adeel Ch/StudioProjects/TabLayout/app/src/main/res/layout/fragment_post.xml" value="0.1921875" />
+        <entry key="..\:/Users/Adeel Ch/StudioProjects/TabLayout/app/src/main/res/layout/fragment_videos.xml" value="0.1921875" />
+        <entry key="..\:/Users/Adeel Ch/StudioProjects/TabLayout/app/src/main/res/layout/music_view_list.xml" value="0.67" />
+        <entry key="..\:/Users/Adeel Ch/StudioProjects/TabLayout/app/src/main/res/layout/pictures_view_list.xml" value="0.8541666666666666" />
+        <entry key="..\:/Users/Adeel Ch/StudioProjects/TabLayout/app/src/main/res/layout/video_view_list.xml" value="0.67" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
